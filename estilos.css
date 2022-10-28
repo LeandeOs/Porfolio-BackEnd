@@ -1,3 +1,62 @@
- article, aside { background: rgb(226, 153, 153) ; font-family: Georgia, 'Times New Roman', Times, serif;}
- nav    {font-family: Arial, Helvetica, sans-serif;}
- ol { background-color: gray; font-family: Arial, Helvetica, sans-serif;}
+
+.title_porfolio{text-align: center;
+    color: #f5381b;}
+    header{
+        background-color: #f4c688;
+    }
+    section{
+        background-color: #f4c688;
+    }
+    
+    div.programador1{
+        position: relative;
+        margin-bottom: 5px;
+    }
+    img{
+        max-width: 100%;
+        height: auto;
+        opacity: 0.7;
+        margin-bottom: 20px;
+    }
+    div.texto_pro{
+        position: absolute;
+        bottom: 5%;
+        left: 60%;
+        color:floralwhite;
+       
+    }
+    
+    .title{
+        text-align: center;
+        margin-top: 20px;
+        color: darkcyan;
+    }
+    .lista1{height: 300px;
+        color: #897521d;
+        background-color: #dc8745;
+        margin-inline-start: 30px;
+        margin-right: 30px;
+       }
+       .lista2{ height: 300px;
+       color: #897521ed;
+        background-color: #dc8745;
+        margin-inline-start: 30px;
+        margin-right: 30px;
+     
+      }
+    aside{    color: #f5381b;
+        background-color: #dc8745;
+        margin-inline-start: 30px;
+        margin-right: 30px;
+    }
+    footer{ color: #f5381b;
+        background-color: #dc8745;
+        margin-inline-start: 30px;
+        margin-right: 30px;
+        margin-bottom: 20px;
+        border-width: 20px;
+      }
+    
+    
+    
+    
